@@ -6,9 +6,9 @@
  
 </p>
  
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SOMii-BRAND&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SabriMalang&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
  
-<h1 align="center">(SOMI-BRAND)</h1>
+<h1 align="center">(Sabri Malang)</h1>
  
 * python3 tool Lattest 
  
@@ -18,13 +18,6 @@
  
 * File cloning method [Lattest]
  
-# TEAM
- 
-* Mr-James
- 
-* Mafia-killer(dragon)
- 
-* Somi-Brand
 
 # Versions
 
